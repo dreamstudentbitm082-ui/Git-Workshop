@@ -1,0 +1,1 @@
+Hello World        //fyi, U after 'git init' is Untracked , A = Added and M = Modified.
